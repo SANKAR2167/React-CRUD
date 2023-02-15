@@ -21,7 +21,7 @@ function App() {
     },
     {
       id: 5003,
-      name: "siva",
+      name: "Siva",
       email: "siva@gmail.com",
       role: "software Engineer",
       salary: "50000"
