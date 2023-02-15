@@ -14,15 +14,15 @@ function App() {
   const [data, setData] = useState([
     {
       id: 5002,
-      name: "ranjan",
-      email: "ranjan@gmail.com",
+      name: "Sankar",
+      email: "sankar@gmail.com",
       role: "fullsatckdeveloper",
       salary: "30000"
     },
     {
       id: 5003,
-      name: "sivaranjani",
-      email: "ranjani731997@gmail.com",
+      name: "siva",
+      email: "siva@gmail.com",
       role: "software Engineer",
       salary: "50000"
     }
