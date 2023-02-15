@@ -13,7 +13,7 @@ function Navbar() {
                     <button className="btn btn-outline-success" type="submit"><FontAwesomeIcon icon={faSearch} /></button>
                 </form>
                 <div>
-                    <span className="mr-2 d-none d-lg-inline text-gray-600 small">Sivaranjani</span>
+                    <span className="mr-2 d-none d-lg-inline text-gray-600 small">Sankar</span>
                     <img className="img-profile rounded-circle" style={{ width: 30 }}
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLNVeRVAa6t-lq4qpDwr1MU1ZPvRf2WcuXtw&usqp=CAU" />
                     <Link className="btn btn-outline-success btn-sm" to="/">Logout</Link>
